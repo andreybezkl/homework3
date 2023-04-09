@@ -1,0 +1,109 @@
+body {
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+.infinity {
+    background-color:#F2F2F2;
+}
+
+.container {
+    width: 990px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 60px 20px 60px 20px;
+}
+
+h3 {
+   font-size: 37px;
+   line-height: 1;
+   font-weight: 400;  
+}
+
+p {
+    font-size: 23px;
+    line-height: 1.3;
+    font-weight: 400;  
+ }
+
+.infinity .img-holder {
+    width: 197px;
+    margin: 0 auto;
+}
+
+.friend {
+    background-color: #FAC960;
+}
+
+.load {
+    background-color: #FFFFFF;
+    border: 1px solid #758696;
+    padding: 0px 20px 4px 20px;
+    display: inline-block;
+    text-decoration: none;
+    margin: 30px 0px;
+}
+
+.invite {
+    background-color: #FAC960;
+}
+
+h2 {
+    font-size: 44px;
+    line-height: 1.23;
+    font-weight: 400;  
+    color:#8A6D2F;
+ }
+
+button {
+    padding: 1px 30px;
+    color: #FFFFFF;
+    font-size: 30px;
+    line-height: 1.8;
+    background-color:#A8863D;
+    border: none;    
+}
+
+.form-invite button {
+    vertical-align: top;
+}
+
+#email {
+    padding: 18px 29px 
+}
+
+form {
+    vertical-align: top;
+}
+
+.social li {
+    padding: 0 5px;
+    display: inline-block;
+}
+
+.social {
+    padding: 15px 10px;  
+}
+
+header .img-holder {
+    width: calc(50% - 2px); 
+    display: inline-block;
+    text-align: left;
+}
+
+header ul {
+    width: calc(50% - 2px); 
+    display: inline-block;
+    text-align: right;
+}
+
+.header-social li{
+    display: inline-block;
+    width: 25px;
+    padding: 0px 5px
+}
+
+.header-social li img{
+    width: 100%;
+}
